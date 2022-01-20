@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bluetooth",
+    "slug": "bluetooth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bluetooth"
+}
